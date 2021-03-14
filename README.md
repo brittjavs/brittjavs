@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Britt
-- 👀 I’m interested in frontend development, agtech, cooking, the outdoors
-- 🌱 I’m currently learning MongoDB, React hooks
+- 👀 I’m interested in frontend development, fullstack web development
+- 🌱 I’m currently learning MongoDB and React hooks
 - 💞️ I’m looking to collaborate on any projects using MERN stack or Rails with JS and React
 - 📫 You can reach me at https://www.linkedin.com/in/britt-javalera/
 
